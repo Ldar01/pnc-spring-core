@@ -1,5 +1,6 @@
-package com.ldar01.democoach;
+package com.ldar01.democoach.utils;
 
+import com.ldar01.democoach.Coach;
 import org.springframework.stereotype.Component;
 
 @Component
